@@ -70,7 +70,6 @@ Dense(10) + Softmax (output: digits 0-9)
 - **Advanced Augmentation**: Time-stretch, pitch-shift, SpecAugment, pink noise
 - **End-to-End Pipeline**: From training to deployment-ready models
 
-## 📊 Performance Results
 
 ## 📊 Performance Results
 
